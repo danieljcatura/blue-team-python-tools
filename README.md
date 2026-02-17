@@ -8,7 +8,7 @@ Currently building hands-on skills through labs, certifications & personal proje
 - SOC analyst workflows (SIEM, alert triage, Wireshark/tcpdump)
 - Python for security automation & log parsing
 - NIST frameworks, vulnerability management, basic IR
-- TryHackMe Security Anlyst Level 1 Certificate (SLA1) (in progress)
+- TryHackMe SOC Level 1 (SAL1) (in progress)
 
 ### 🛠️ Featured Projects
 - [Simple Allow-List IP Filter (Python)](https://github.com/yourusername/allow-list-script) – Script that removes malicious IPs from access lists
@@ -19,11 +19,11 @@ Currently building hands-on skills through labs, certifications & personal proje
 - CompTIA Security+ Certification – [View](link)
 - Certificate in Cybersecurity, Springboard December 2025
 - Bachelor of Science in Networking and Communications Management, DeVry University
-- TryHackMe badges/paths (add images if possible)
+- TryHackMe Badges https://tryhackme.com/p/DanielJC?tab=badges
 
 ### 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/danieljcatura
-- TryHackMe / HackTheBox: [your-username]
+- TryHackMe: https://tryhackme.com/p/DanielJC
 - Email: danieljcatura@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
