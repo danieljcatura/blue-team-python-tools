@@ -16,8 +16,8 @@ Currently building hands-on skills through labs, certifications & personal proje
 - [Basic Port Scanner](https://github.com/yourusername/port-scanner) – Educational TCP scanner (ethical use only!)
 
 ### 📜 Certifications & Badges
-- CompTIA Security+ Certification – [View](https://www.credly.com/badges/775c1ff5-258b-4a64-a40e-b7ad33618a0b)
-- CompTIA Network+ Certification - [View](https://www.credly.com/badges/aae935f6-fbc7-4031-81eb-67755862447e)
+- CompTIA **Security+** Certification – [View](https://www.credly.com/badges/775c1ff5-258b-4a64-a40e-b7ad33618a0b)
+- CompTIA **Network+** Certification - [View](https://www.credly.com/badges/aae935f6-fbc7-4031-81eb-67755862447e)
 - **Certificate in Cybersecurity**, Springboard December 2025
 - **Bachelor of Science in Networking and Communications Management**, DeVry University
 - TryHackMe Badges - [View](https://tryhackme.com/p/DanielJC?tab=badges)
