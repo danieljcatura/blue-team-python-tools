@@ -20,7 +20,7 @@ Currently building hands-on skills through labs, certifications & personal proje
 - CompTIA Network+ Certification - [View](https://www.credly.com/badges/aae935f6-fbc7-4031-81eb-67755862447e)
 - Certificate in Cybersecurity, Springboard December 2025
 - Bachelor of Science in Networking and Communications Management, DeVry University
-- TryHackMe Badges https://tryhackme.com/p/DanielJC?tab=badges
+- TryHackMe Badges - [View](https://tryhackme.com/p/DanielJC?tab=badges)
 
 ### 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/danieljcatura
