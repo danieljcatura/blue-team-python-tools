@@ -13,11 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🔍 About Me
@@ -25,7 +20,7 @@ Aspiring **Cybersecurity Analyst** passionate about threat detection, incident r
 
 - 🔭 Currently: Developing Python tools for security automation & log parsing
 - 🌱 In progress: TryHackMe SOC Level 1 (SAL1) path
-- 📍 Location: Austin, TX – excited about the local cybersecurity community!
+- 📍 Location: Leander, TX – excited about the local cybersecurity community!
 
 ### 🛠️ Skills & Tools
 <p align="center">
