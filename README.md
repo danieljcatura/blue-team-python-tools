@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst | Blue Team Focus | Austin, Texas</h3>
+<h3 align="center">Cybersecurity Professional | Blue Team Focus | Austin, Texas</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danieljcatura">
